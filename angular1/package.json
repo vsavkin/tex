@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "angular": "angular/bower-angular#d2d468f49961ed9bf54d330d9df79a791b69be8e",
+    "material-design-lite": "^1.0.5"
+  },
+  "devDependencies": {
+    "ts-loader": "^0.5.6",
+    "typescript": "^1.6.2",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  }
+}

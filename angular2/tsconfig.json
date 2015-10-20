@@ -1,0 +1,16 @@
+{
+  "version": "1.6.2",
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "noEmitOnError": false
+  },
+  "files": [
+    "app.ts",
+    "tabs.ts",
+    "shim.d.ts"
+  ]
+}
